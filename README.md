@@ -1,2 +1,2 @@
 # bigdata
-Material para curso de Big Data
+Material para curso de Big Data Aplicada
