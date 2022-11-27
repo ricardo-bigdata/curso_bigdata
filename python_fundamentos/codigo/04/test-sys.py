@@ -23,6 +23,9 @@ print(sys.version,'\n')
 print('\033[1m','sys.platform','\033[0m','devolve a plataforma (sistema operativo) sobre a que se está a executa-lo intérprete de Python: ')
 print(sys.platform,'\n')
 
+print('\033[1m','sys.executable','\033[0m','devolve as rutas nas que o intérprete python busca os módulos dos que cargar funcións, variables,... a usar: ')
+print(sys.path,'\n')
+
 print('\033[1m','sys.getdefaultencoding()','\033[0m','devolve o sistema de codificación usado por defecto: ')
 print(sys.getdefaultencoding(),'\n')
 
